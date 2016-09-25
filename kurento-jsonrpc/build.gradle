@@ -1,0 +1,12 @@
+apply plugin: 'java'
+
+targetCompatibility = '1.7'
+sourceCompatibility = '1.7'
+
+dependencies {
+    compile project(':kurento-commons')
+    compile 'org.apache.httpcomponents:fluent-hc:4.5.2'
+    compile 'org.apache.httpcomponents:httpclient:4.5.2'
+    compile 'com.thoughtworks.paranamer:paranamer:2.8'
+    compile project(':websocket-client')
+}

@@ -1,0 +1,1 @@
+include ':app', ':kurento-room-client', ':kurento-room-sdk', ':kurento-jsonrpc', ':kurento-commons', ':websocket-client', ':gridlayout', ':retrofit-rxadapter'

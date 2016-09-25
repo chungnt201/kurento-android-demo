@@ -1,0 +1,16 @@
+apply plugin: 'java'
+
+targetCompatibility = '1.7'
+sourceCompatibility = '1.7'
+
+dependencies {
+    compile 'org.hamcrest:hamcrest-core:1.3'
+    compile('org.kurento:kurento-client:6.5.0') {
+        exclude group: 'org.springframework.boot', module: 'spring-boot-starter-logging'
+        exclude group: 'org.kurento'
+    }
+    compile project(':kurento-jsonrpc')
+
+    targetCompatibility = '1.7'
+    sourceCompatibility = '1.7'
+}

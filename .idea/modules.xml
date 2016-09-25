@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WebRtcRoomDemo.iml" filepath="$PROJECT_DIR$/WebRtcRoomDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gridlayout/gridlayout.iml" filepath="$PROJECT_DIR$/gridlayout/gridlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kurento-commons/kurento-commons.iml" filepath="$PROJECT_DIR$/kurento-commons/kurento-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kurento-jsonrpc/kurento-jsonrpc.iml" filepath="$PROJECT_DIR$/kurento-jsonrpc/kurento-jsonrpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kurento-room-client/kurento-room-client.iml" filepath="$PROJECT_DIR$/kurento-room-client/kurento-room-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kurento-room-sdk/kurento-room-sdk.iml" filepath="$PROJECT_DIR$/kurento-room-sdk/kurento-room-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofit-rxadapter/retrofit-rxadapter.iml" filepath="$PROJECT_DIR$/retrofit-rxadapter/retrofit-rxadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/websocket-client/websocket-client.iml" filepath="$PROJECT_DIR$/websocket-client/websocket-client.iml" />
+    </modules>
+  </component>
+</project>
